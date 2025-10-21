@@ -3,7 +3,7 @@
 
 Esta práctica fue realizada en el lenguaje de programación _Python_ y está pensada para ejecutarse en entornos como **Jupyther Notebook**, **Google Colab**, entre otros _IDE_’s similares. No necesita ningún elemento externo o archivo para funcionar de manera correcta.
 
-El programa presentado hace uso de las bibliotecas de _Python_: `Random`, `Networkx` y `Matplotlib.pyplot`. De ser necesario instalar las bibliotecas con el comando `pip install <NombreBiblioteca>`.
+El programa presentado hace uso de las bibliotecas de _Python_: `Random`, `Networkx` y `Matplotlib`. De ser necesario instalar las bibliotecas con el comando `pip install <NombreBiblioteca>`.
 
 Se dan dos ejemplos para probar la funcionalidad del algoritmo no determinista para la **Coalición Sospechosa**, el primero fue abordado durante la sesiones de ayudantía y el segundo es un ejemplo inventado. Si se desea probar con otro ejemplo se deben dar los siguientes datos
 
